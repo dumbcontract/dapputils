@@ -1,0 +1,3 @@
+[submodule "ERC23-tokens"]
+	path = ERC23-tokens
+	url = https://github.com/Dexaran/ERC23-tokens
